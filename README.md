@@ -1,3 +1,3 @@
 # TerraformAWS
 ---
-**Used technologies: ** Terraform, AWS (cli)
+Used technologies: Terraform, AWS (cli)
